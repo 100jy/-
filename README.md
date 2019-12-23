@@ -1,1 +1,2 @@
-# mnist_ex
+#책예제_실습_mnist
+
